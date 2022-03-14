@@ -1,6 +1,7 @@
 {
   "allow": [],
   "deny": [
+    "loopfixchains.site",
     "crypto-safeauth.com",
     "0vvwvuniswap.top",
     "0vvwwuniswap.top",
