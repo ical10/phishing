@@ -29,6 +29,7 @@
 		"zapto.org"
 	],
 	"deny": [
+		"airdrop.monta.network",
 		"airdrop-mantanetworks.com",
 		"mantanetwork-claim.com",
 		"airdrop.rnanta.network",
